@@ -33,7 +33,7 @@ const movieFrames = [
   },
   {
     name: "Jumanji",
-    img: "https://imgbb.top/ib/qN6nyQqDvGWnTN5_1689836003.png",
+    img: "https://imgbb.top/ib/LMm2G7fMz9fvq4d_1689836003.png",
   },
   {
     name: "John Wick Chapter 4",
