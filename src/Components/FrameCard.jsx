@@ -82,7 +82,7 @@ const FrameCard = () => {
 
   return (
     <div>
-      <div className="max-w-md mx-auto bg-gray-100 rounded-xl shadow-2xl overflow-hidden">
+      <div className="w-3/6  mx-auto bg-gray-100 rounded-xl shadow-2xl overflow-hidden">
         <div className="flex items-center p-3">
           <div className="px-1">
             <span className="w-4 h-4 rounded-full inline-block bg-red-500 cursor-pointer"></span>
