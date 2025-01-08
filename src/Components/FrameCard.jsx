@@ -96,7 +96,7 @@ const FrameCard = () => {
           <p className="pl-16 text-2xl font-bold">Guess The Movie</p>
         </div>
 
-        <img className="w-full h-auto" src={currentFrame.img} alt="Poster" />
+        <img className="w-max h-max" src={currentFrame.img} alt="Poster" />
 
         {isRevealed && (
           <div className="p-4 text-center text-2xl font-bold">
