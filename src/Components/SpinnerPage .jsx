@@ -44,7 +44,7 @@ const SpinnerPage = () => {
   }, [names]);
 
   return (
-    <div className="h-screen w-screen flex flex-col items-center justify-center relative">
+    <div className="h-screen justify-start  ">
       {/* Spinner Container at Top Right */}
       <div
         className={`absolute bottom-56 left-4 w-40 h-40 border-4 border-gray-600 rounded-full flex items-center justify-center ${
