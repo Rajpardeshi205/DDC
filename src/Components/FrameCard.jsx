@@ -41,7 +41,7 @@ const movieFrames = [
   },
   {
     name: " Ek Villain",
-    img: "https://i.imgur.com/nSHPrET.png",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVqXiL2oS-ChSgXsKh11glaEqGRi3mnHY2Q&s",
   },
   {
     name: "Thank God",
