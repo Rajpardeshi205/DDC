@@ -22,7 +22,7 @@ const HomePage = () => {
 
   return (
     <div className="bg-gradient-to-b from-red-400 to-blue-900 flex flex-col items-center justify-center h-screen w-screen">
-      <div className="mb-8 w-screen mt-24">
+      <div className="mb-8 w-5/6 mt-24">
         {showDialogueCard ? (
           <DialogueCard />
         ) : showDirectorCard ? (
