@@ -1,9 +1,11 @@
 import React, { useState, useEffect } from "react";
+import img from "/Images/pp.png";
+
 
 const movieFrames = [
   {
     name: "By PlayerX",
-    img: "/Images/pp.png",
+    img: img,
   },
   {
     name: "Toxic",
