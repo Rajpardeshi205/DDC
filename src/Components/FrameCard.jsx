@@ -1,7 +1,6 @@
 import React, { useState, useEffect } from "react";
 import img from "/Images/pp.png";
 
-
 const movieFrames = [
   {
     name: "By PlayerX",
@@ -82,7 +81,7 @@ const FrameCard = () => {
 
   return (
     <div>
-      <div className="w-3/6  mx-auto bg-gray-100 rounded-xl shadow-2xl overflow-hidden">
+      <div className="max-w-screen-md max-h-screen mx-auto bg-gray-100 rounded-xl shadow-2xl overflow-hidden">
         <div className="flex items-center p-3">
           <div className="px-1">
             <span className="w-4 h-4 rounded-full inline-block bg-red-500 cursor-pointer"></span>
@@ -111,7 +110,7 @@ const FrameCard = () => {
         </div>
       </div>
 
-      <div className="flex mt-4 space-x-4">
+      <div className="flex mt-4 justify-center space-x-4">
         <button
           onClick={handleReveal}
           className="border-2 border-black hover:scale-95 duration-300 relative group cursor-pointer text-sky-50 overflow-hidden h-16 w-64 rounded-md bg-red-200 p-2 flex justify-center items-center font-extrabold"
