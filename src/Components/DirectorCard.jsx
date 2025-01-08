@@ -19,7 +19,7 @@ const DirectorFrames = [
   },
   {
     name: "Greta Gerwig",
-    img: "https://vegamovies.ms/wp-content/uploads/2023/12/Barbie-Hindi-2024-200x300.jpg",
+    img: "https://image.tmdb.org/t/p/original/6BMIooQpnhL4Q892WySS1Xy74yy.jpg",
   },
   {
     name: "Christopher Nolan",
